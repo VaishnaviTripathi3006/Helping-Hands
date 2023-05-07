@@ -1,0 +1,128 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:500);
+body{
+    background-color: #F6F1F1;
+}
+#navId{
+    padding: 5px;
+    padding-left: 40px;
+    padding-top: 20px;
+    
+}
+#brandName{
+    color: #19A7CE;
+    font-size: 40px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+ }   
+#logo{
+    margin-right: 10px;
+}
+.loginbtn{
+    background-color: #19A7CE!important;
+    color: white!important
+    ;
+}
+.google-btn {
+    width: 184px;
+    height: 42px;
+    background-color:#4285f4;
+    border-radius: 2px;
+    box-shadow: 0 3px 4px 0 rgba(0,0,0,.25);
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+    .google-icon-wrapper {
+      position: absolute;
+      margin-top: 1px;
+      margin-left: 1px;
+      width: 40px;
+      height: 40px;
+      border-radius: 2px;
+      background-color: #fff;
+    }
+    .google-icon {
+      position: absolute;
+      margin-top: 11px;
+      margin-left: 11px;
+      width: 18px;
+      height: 18px;
+    }
+    .btn-text {
+      float: right;
+      margin: 11px 11px 0 0;
+      color: #ffff;
+      font-size: 14px;
+      letter-spacing: 0.2px;
+      font-family: "Roboto";
+    }
+    .google-btn:hover {
+      box-shadow: 0 0 6px #4285f4;
+    }
+    .google-btn:active {
+      background: #4285f4;
+    }
+#ModalLabel{
+    color: #19A7CE;
+}
+#navbarSupportedContent{
+margin-left: 500px;
+}
+
+.nav-item{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+
+#magnifyingGlass{
+    padding-top: 24px;
+    margin-left: 10px;
+}
+#section2{
+    padding: 100px;
+    background-image: url('bg-img.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+    
+}
+.quote{
+    font-size: 100px;
+    color: white;
+    font-family: 'Kumbh Sans', sans-serif;
+font-family: 'Sigmar', cursive;
+}
+#loveTokens{
+    
+   
+}
+.loveTokens:hover{
+    color: #146C94!important;
+
+}
+#section3{
+    padding:62px;
+    text-align:center;
+    
+
+
+
+}
+.card{
+    border: none!important;
+    text-align: center;
+    display: inline-block!important;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.card-body{
+    
+}
+.recycle{
+   position: relative;
+   top: 20px;
+}
